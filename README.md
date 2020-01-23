@@ -17,11 +17,15 @@ con *git commit -m "Mensaje del commit"*
 
 6 Para subir los cambios al repositorio remoto de GitHub hacemos *git push origin master*
 
+7 Creamos otra rama *git branch recetas* en la que añadimos los ficheros con las recetas.
+
+8 Añadimos y subimos los cambios de la rama igual que en la master con el README.
+
+9 Finalmente uno las dos ramas con un *git merge recetas*
+
 ***********
 ## Recetas
 
-1 
+1 [Crema de calabaza][./cremacalabaza.md]
 
-2 
-
-3 
+2 [Salmón al horno][./salmonhorneado-md]
