@@ -26,6 +26,6 @@ con *git commit -m "Mensaje del commit"*
 ***********
 ## Recetas
 
-1 [Crema de calabaza][./cremacalabaza.md]
+1 [Crema de calabaza](./cremacalabaza.md)
 
-2 [Salmón al horno][./salmonhorneado-md]
+2 [Salmón al horno](./salmonhorneado-md)
