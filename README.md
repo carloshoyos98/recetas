@@ -11,3 +11,17 @@ queremos guardar nuestro repositorio.
 3 Una vez ubicados hacemos un git clone <URL>, en este caso [https://github.com/carloshoyos98/recetas.git](https://github.com/carloshoyos98/recetas.git)
 
 4 Creamos y modificamos el README con el comando *nano README.md*
+
+5 Añadimos el README al repositorio local con *git add .* y hacemos el primer commit
+con *git commit -m "Mensaje del commit"*
+
+6 Para subir los cambios al repositorio remoto de GitHub hacemos *git push origin master*
+
+***********
+## Recetas
+
+1 
+
+2 
+
+3 
